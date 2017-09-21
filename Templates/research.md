@@ -2,7 +2,7 @@
 Describe your long-term goal for the project.
 
 # Hypothesis
-Propose a testable guess.
+Propose a testable explanation.
 
 # Owner
 State your name.
@@ -14,7 +14,7 @@ Explain why the hypothesis is important.
 Give dates for when you will start and finish testing the hypothesis.
 
 # Log
-Record progress toward objectives.
+Record experiments and results.
 
 # Tasks
 List remaining tasks.
