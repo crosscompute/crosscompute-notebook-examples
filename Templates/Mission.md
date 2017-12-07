@@ -16,6 +16,9 @@ Give dates for when you will start and finish the mission.
 # Objectives
 Specify at most three goals that must be achieved for the mission to be successful.
 
+# Budget
+Estimate total cost including compensation.
+
 # Log
 Record progress toward objectives.
 
