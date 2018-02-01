@@ -9,9 +9,9 @@ To transform your notebook into a tool, follow these basic steps:
 4. Click the Blue Paper Plane to preview your tool.
 5. Click the Red Paper Plane to deploy your tool.
 
-[Click here to see more examples](https://docs.google.com/spreadsheets/d/1xWHIWGhqoeQvPCtc1GWxkg7NoUXJno_EToLhp2WxZdw)
+[Click here to see more examples](https://docs.google.com/spreadsheets/d/1xWHIWGhqoeQvPCtc1GWxkg7NoUXJno_EToLhp2WxZdw).
 
-[Click here to use a template](https://crosscompute.com/n/VUnC87fxksJsuBCksDNl2LHXw7ZMzAB4/-/templates/tool)
+[Click here to use a template](https://crosscompute.com/n/VUnC87fxksJsuBCksDNl2LHXw7ZMzAB4/-/templates/tool).
 
 ![Example 0](https://storage.googleapis.com/crosscompute-website-20170828/example0-20171207-0700.jpg),
 ![Example 1](https://storage.googleapis.com/crosscompute-website-20170828/example1-20171207-0700.jpg),
@@ -19,7 +19,7 @@ To transform your notebook into a tool, follow these basic steps:
 ![Example 3](https://storage.googleapis.com/crosscompute-website-20170828/example3-20171207-0700.jpg)
 
 [![Create and Deploy Your Scripts with Two Clicks](https://img.youtube.com/vi/M6GPVq3-Beg/0.jpg)](https://www.youtube.com/watch?v=M6GPVq3-Beg "Create and Deploy Your Scripts with Two Clicks")
-  
+
 ## Publish Interactive Blogs
 - When starting your own interactive blog, first decide whether it will be for research or development.
 - [Mission templates](../tree/Templates) are useful for remembering what you are doing and why you are doing it.
