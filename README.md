@@ -5,13 +5,13 @@ Now that you have started a session, here are some ideas on what you can do with
 To transform your notebook into a tool, follow these basic steps:
 1. Define input arguments in the first code cell.
 2. Print output properties to standard output in subsequent code cells.
-3. Add a comment containing the word CrossCompute to the first code cell.
-4. Click the Blue Paper Plane to preview your tool.
-5. Click the Red Paper Plane to deploy your tool.
+3. Click the Blue Button to preview your tool.
+4. Click the Red Button to deploy your tool.
+5. Click the Eye Icon and change the visibility of your tool from Hidden to Public.
 
 [Click here to see more examples](https://docs.google.com/spreadsheets/d/1xWHIWGhqoeQvPCtc1GWxkg7NoUXJno_EToLhp2WxZdw).
 
-[Click here to use a template](https://crosscompute.com/n/VUnC87fxksJsuBCksDNl2LHXw7ZMzAB4/-/templates/tool).
+[Click here to use a template](https://crosscompute.com/n/VUnC87fxksJsuBCksDNl2LHXw7ZMzAB4/-/make-your-own-tool).
 
 ![Example 0](https://storage.googleapis.com/crosscompute-website-20170828/example0-20171207-0700.jpg),
 ![Example 1](https://storage.googleapis.com/crosscompute-website-20170828/example1-20171207-0700.jpg),
